@@ -16,7 +16,7 @@ st.set_page_config(
 # =====================================================================
 #  CONTENIDO
 # =====================================================================
-IMAGEN = "gato_raton.png"
+IMAGEN = "Childrens_Storybook.jpg"
 
 FABULA = (
     "¡Ay! —dijo el ratón—. El mundo se hace cada día más pequeño. Al principio "
